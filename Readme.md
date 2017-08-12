@@ -1,5 +1,9 @@
 # Readme
 
+[![Build Status](https://travis-ci.org/Airsola/exercise2.svg?branch=master)](https://travis-ci.org/Airsola/exercise2)
+
+
+
 ### 步骤
 
 * 全局安装 mocha
